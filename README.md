@@ -2,15 +2,11 @@
 
 This repo contains the necessary code to generate a QMD file that would generate visualizations from the following datasets:
 
-1. Armed Forces Data
-2. Popular Baby Names Project
-3. Plotting a Mathematical Function
+## 1. Armed Forces Data
 
-## Armed Forces Data
+## 2. Popular Baby Names Project
 
-## Popular Baby Names Project
-
-## Plotting a Mathematical Function
+## 3. Plotting a Mathematical Function
 
 ## Contact Information
 email: jkt5639@psu.edu
