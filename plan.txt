@@ -1,0 +1,9 @@
+This repo aims to preserve the data of the aforementioned 3 visualizations.
+
+Steps for this project:
+1. Gather the data
+2. Data wrangling
+3. Process the data so it's ready for visualizations
+4. Code the visualizations.
+
+To make sure the content of this repo is up to date: check in for any update or changes in the packages that are used in the code; update datasets that would change with time. Improve codes on the basis of optimization in the future.
